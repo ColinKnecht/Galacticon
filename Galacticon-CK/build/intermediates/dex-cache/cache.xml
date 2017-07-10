@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ff26cd5acb06858414a5b1b752f2b3e7c4a5f2e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/03d0119ff1cc369db93498982b6af14ecb64ae18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/classes_cf3921fee9e38e51c3551aa5ccb9db35d540937f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_3294288ec59bba9563e84302c272dba3ffa1b93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/0fd5d39a00e6845ece19c3776720f121204e8e8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/classes_25d5c22b918d3f63bafeb696483bd9c45abe32f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/a738955627d40c107a7d74c3933281132e292c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/classes_2b4c46f417a906a3a0f73ee6fc6645afdeded479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/f60af078ef1af9038ff276e91c4607b5dfc735a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/classes_92f30bf70166bbb3e88b4b3177ef6231915a99bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_7e86dc23d0e342c811f95020c189228b313ed4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/okio-1.6.0_aff920767fafe809a8f32f35576d5152709ce2c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/0fd5d39a00e6845ece19c3776720f121204e8e8c/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d7a90965365e574376e3540f446ef091eddf7455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/colinknecht/.android/build-cache/98ece78c4eead809495bfdc3c7e94d832515b95b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/colinknecht/Desktop/Galacticon-CK/app/build/intermediates/pre-dexed/debug/classes_a3d92660a6b225e71de5582902183224a646d540.jar" />
+    </item>
+
+</items>
